@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+
+# Data and generated files
+data/
+delta/
+logs/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
